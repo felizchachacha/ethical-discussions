@@ -14,6 +14,6 @@
 
 
 
-<figure><img src=".gitbook/assets/mm1 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/mm1.jpg" alt=""><figcaption></figcaption></figure>
 
 📌Майндкарта об утверждениях \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ #оглавление #утверждения #направления
